@@ -15,6 +15,14 @@ const Questions = [
     optionD: "X-LO",
     answer: "optionD",
   },
+  {
+    prompt: "Which number is the highest?",
+    optionA: "1",
+    optionB: "2",
+    optionC: "3",
+    optionD: "0",
+    answer: "optionC",
+  },
 ];
 
 export default Questions;
